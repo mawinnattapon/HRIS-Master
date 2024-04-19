@@ -43,7 +43,7 @@
 													<span class="menu-bullet">
 														<span class="bullet bullet-dot"></span>
 													</span>
-													<span class="menu-title">User Profile</span>
+													<span class="menu-title">Master Setting</span>
 													<span class="menu-arrow"></span>
 												</span>
 												<!--end:Menu link-->
@@ -52,11 +52,11 @@
 													<!--begin:Menu item-->
 													<div class="menu-item">
 														<!--begin:Menu link-->
-														<NuxtLink class="menu-link active" to="pages/user-profile/overview.html">
+														<NuxtLink class="menu-link active" to="/masters">
 															<span class="menu-bullet">
 																<span class="bullet bullet-dot"></span>
 															</span>
-															<span class="menu-title">Overview</span>
+															<span class="menu-title">Blood Group</span>
 														</NuxtLink>
 														<!--end:Menu link-->
 													</div>
